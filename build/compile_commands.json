@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/cnop/Desktop/code_test/build",
+  "command": "\"D:\\Program Files\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe\"   -g -o CMakeFiles\\Hello.dir\\main.cpp.obj -c C:\\Users\\cnop\\Desktop\\code_test\\main.cpp",
+  "file": "C:/Users/cnop/Desktop/code_test/main.cpp"
+}
+]
